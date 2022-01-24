@@ -1,1 +1,3 @@
 FaveFlicks
+
+CoreData, SwiftUI
